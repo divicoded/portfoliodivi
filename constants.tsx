@@ -21,7 +21,7 @@ export const PROJECTS: Project[] = [
     link: 'https://divicoded.github.io/yokoso/',
     size: 'large',
     highlight: 'Hero Experience',
-    image: 'https://divicoded.github.io/portfoliodivi/images/yokoso.png',
+    image: 'https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/yokoso.png',
     languages: [{ name: 'CSS', percent: 50.7 }, { name: 'JS', percent: 33.3 }, { name: 'HTML', percent: 16 }]
   },
   {
@@ -32,7 +32,7 @@ export const PROJECTS: Project[] = [
     link: 'https://divicoded.github.io/fractured-game/',
     size: 'large',
     highlight: 'Game Engine',
-    image: 'https://divicoded.github.io/portfoliodivi/images/fractured.png',
+    image: 'https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/fractured.png',
     languages: [{ name: 'TypeScript', percent: 93.3 }, { name: 'HTML', percent: 6.2 }, { name: 'JS', percent: 0.5 }]
   },
   {
@@ -43,7 +43,7 @@ export const PROJECTS: Project[] = [
     link: 'https://divicoded.github.io/hushwood/',
     size: 'wide',
     highlight: 'Interactive Narrative',
-    image: 'https://divicoded.github.io/portfoliodivi/images/hushwood.png'
+    image: 'https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/hushwood.png'
   },
   {
     id: 'inkecho',
@@ -53,7 +53,7 @@ export const PROJECTS: Project[] = [
     link: 'https://divicoded.github.io/ink-echo/',
     size: 'wide',
     highlight: 'Atmospheric UI',
-    image: 'https://divicoded.github.io/portfoliodivi/images/inkecho.png',
+    image: 'https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/inkecho.png',
     languages: [{ name: 'TypeScript', percent: 91.4 }, { name: 'HTML', percent: 8.6 }]
   },
 
@@ -66,7 +66,7 @@ export const PROJECTS: Project[] = [
     link: 'https://divicoded.github.io/RepliChat/',
     size: 'medium',
     highlight: 'Tooling',
-    image: 'https://divicoded.github.io/portfoliodivi/images/replichat.png',
+    image: 'https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/replichat.png',
     languages: [{ name: 'CSS', percent: 65.3 }, { name: 'JS', percent: 25.1 }, { name: 'HTML', percent: 9.6 }]
   },
   {

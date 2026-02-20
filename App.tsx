@@ -45,37 +45,37 @@ const StatBar = ({ label, value, color }: { label: string, value: number, color:
 // Menu Items for Infinite Gallery
 const menuItems = [
   {
-    image: './images/aot.png',
+    image: 'https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/aot.png',
     link: 'https://github.com/divicoded',
     title: 'GOATED ANIME',
     description: 'AOT'
   },
   {
-    image: 'https://divicoded.github.io/portfoliodivi/images/isagi.png',
+    image: 'https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/isagi.png',
     link: 'https://github.com/divicoded',
     title: 'ISAGI',
     description: 'ISAGI'
   },
   {
-    image: 'https://divicoded.github.io/portfoliodivi/images/nakumizu.png',
+    image: 'https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/nakumizu.png',
     link: 'https://github.com/divicoded',
     title: 'nakumizu',
     description: 'nakumizu'
   },
   {
-    image: 'https://divicoded.github.io/portfoliodivi/images/romance.png',
+    image: 'https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/romance.png',
     link: 'https://github.com/divicoded',
     title: 'The Fragrant Flower Blooms with Dignity',
     description: 'The Fragrant Flower Blooms with Dignity'
   },
   {
-    image: 'https://divicoded.github.io/portfoliodivi/images//sao.png',
+    image: 'https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/sao.png',
     link: 'https://github.com/divicoded',
     title: 'SAO',
     description: 'SAO'
   },
   {
-    image: 'https://divicoded.github.io/portfoliodivi/images/shoyo.png',
+    image: 'https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/shoyo.png',
     link: 'https://github.com/divicoded',
     title: 'Shoyo',
     description: 'Shoyo'

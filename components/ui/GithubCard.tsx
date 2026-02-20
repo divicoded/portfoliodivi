@@ -318,7 +318,7 @@ const GithubCard: React.FC<GithubCardProps> = ({ season = Season.Vasant, timeOfD
 
               {/* transparent gif */}
               <img
-                src="https://divicoded.github.io/portfoliodivi/images/bocchi.gif"
+                src="https://raw.githubusercontent.com/divicoded/portfoliodivi/refs/heads/main/images/bocchi.gif"
                 alt="Hehehe..."
                 className="relative w-full h-full object-contain opacity-95 group-hover:scale-110 transition-transform duration-700"
               />
